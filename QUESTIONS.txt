@@ -1,0 +1,28 @@
+Sur la structure du CV :
+	Mon CV semble-t-il bien organisé et facile à lire ? Est-ce que 
+je devrais réorganiser certaines parties, par exemple, mettre plus en avant mes compétences techniques 
+ou mon expérience dans des environnements professionnels variés ?
+
+Sur les compétences techniques :
+	J’ai listé plusieurs compétences techniques comme C#, .NET, et ASP.NET Core. 
+Pensez-vous qu’il serait judicieux de détailler davantage les projets spécifiques sur lesquels 
+j’ai travaillé, ou est-ce que la mention de ces technologies suffit à ce stade ?
+
+Sur l'expérience professionnelle :
+	Mon expérience en usine, fast-food et dans un salon de coiffure est-elle pertinente dans ce contexte ? 
+Devrais je davantage insister sur les compétences transférables comme la polyvalence et la gestion des priorités ?
+
+Sur la lettre de motivation :
+	Dans ma lettre de motivation, j’évoque un projet de Sopra Steria que j’ai découvert lors d’un atelier. 
+Est-ce que cette anecdote est bien placée pour capter l’attention du recruteur, ou devrais je la déplacer ou la formuler différemment ?
+
+Adaptation à l'offre :
+	Est-ce que ma lettre de motivation répond correctement aux attentes de l’offre, notamment sur la partie support applicatif et supervision des travaux d’exploitation ? Devrais je davantage développer comment mes compétences techniques me permettent de répondre à ces besoins spécifiques ?
+
+Ton projet professionnel :
+	Pensez-vous que j’ai suffisamment démontré ma motivation à rejoindre Sopra Steria et à évoluer dans ce secteur, 
+ou devrais je mettre plus en avant mes ambitions à long terme ?
+
+Sur les détails personnels :
+	Est-ce que l’ajout de détails comme mes centres d'intérêt pour l’intelligence artificielle et 
+les projets open source est pertinent dans le cadre d’une candidature pour un poste de développeur .NET, ou devrais je me concentrer uniquement sur mes compétences et expériences ?"
