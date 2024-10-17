@@ -1,0 +1,43 @@
+Développeur .NET C# et Technicien Support Applicatif H/F
+
+SOPRA STERIA, Annecy, ARA.
+
+Directement intégré au sein de la DSI, sous la responsabilité du Responsable du Service Développement Interne, vous serez en charge des missions suivantes :
+ 
+
+Garantir la fourniture des résultats de production informatique dans les conditions optimales (qualité, délais)
+Superviser les travaux d’exploitation planifiés grâce aux utilitaires mis en œuvre
+Etablir les diagnostics nécessaires en cas de pannes
+Détecter les dysfonctionnements et analyser les causes
+Etudier, proposer et développer des solutions et mesures correctives
+Être force de proposition pour le développement de solution évolutive
+Travailler avec les équipes en place
+Enregistrer les demandes, les incidents ou anomalies de fonctionnement 
+Rédiger les rapports d’incidents
+Suivre le traitement des incidents en cours
+Exploiter la base d’incidents : consolidation, analyse de tendance, demandes d’actions préventives de fond, …
+Concevoir et maintenir à jour les procédures d’exploitation
+Concevoir, développer et maintenir des applications en C#/VB.NET utilisant le Framework .NET
+Participer à l'analyse des besoins et à la rédaction des spécifications techniques
+Réaliser les tests unitaires et d'intégration
+Titulaire d'un Bac +2 dans le domaine des sciences informatiques, vous justifiez d'une expérience significative sur un poste similaire. 
+
+Profil recherché
+Titulaire d'un Bac +2 dans le domaine des sciences informatiques, vous justifiez d'une expérience significative sur un poste similaire.
+
+Vous êtes autonome, organisé, méthodologique, savez gérer les priorités et avez une certaine capacité à diagnostiquer et résoudre les problèmes techniques complexes.
+
+Compétences requises :
+
+Maîtrise du langage C# et du Framework .NET
+Connaissance approfondie des bases de données SQL (SQL Server, MySQL, PostgreSQL) et maîtrise avancée du langage SQL
+Compétences en outils de versionning comme Git/Svn
+Une expérience en DevOps serait un gros plus
+Une expérience avec les langages PowerShell et VB6 serait également un plus  
+
+Package salarial et avantages :
+Poste à pourvoir en CDI
+
+Rémunération selon profil
+
+Avantages : 13ème mois, primes trimestrielles, prime de participation, télétravail, Ticket Restaurant, mutuelle

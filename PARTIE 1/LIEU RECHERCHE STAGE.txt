@@ -1,0 +1,27 @@
+catégories :
+	- Lieu physique :
+		- Pôle Emploie
+		- Boîte d'interim
+		- Mairie
+		- USMB - Club des entreprises
+		- Entreprise à sens large
+		- JobDating
+		- Tetras
+	- Contact proches/connaissances : 
+		- réseaux parents...
+	- Réseaux Sociaux :
+		- Insta...
+		- Linkedin
+	- Demarchage publicitaires :
+		- Affiches, journals...
+		- Mails...
+	- Sites spécialisés : 
+		- Monster.fr
+		- Pôle Emploie
+		- Indeed
+		- JobTeaser
+		- France travail/APEC (à regarder)
+		- Glassdoor
+		- Stage.fr
+		- Welcometothejungle
+		- Welovedev
